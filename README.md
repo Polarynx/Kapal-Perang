@@ -28,19 +28,19 @@ This project demonstrates core Java skills including class design, file I/O, arr
   - Stores a log of game results
   - Auto-updated after each completed game
 ## How to Run (Eclipse IDE)
-Prereqs
-  - Java JDK >=8
-  - Eclipse IDE (Java Developers edition rec)
-Steps
-1. Open Eclipse
-2. Select File -> New -> Java Project
-3. Name the Project: KapalPerang
-4. Inside src/, add:
-  - `Battlemain.java`
-  - `Game.java`
-  - `Location.java`
-5. Place `line.dat` in the project root directory
-6. Run  `Battlemain.java`
+  - Prereqs:
+    - Java JDK >=8
+    - Eclipse IDE (Java Developers edition rec)
+  - Steps
+    1. Open Eclipse
+    2. Select File -> New -> Java Project
+    3. Name the Project: KapalPerang
+    4. Inside src/, add:
+      - `Battlemain.java`
+      - `Game.java`
+      - `Location.java`
+    5. Place `line.dat` in the project root directory
+    6. Run  `Battlemain.java`
 
 ## Gameplay Instructions
 - You'll be prompted to place ships by entering:
