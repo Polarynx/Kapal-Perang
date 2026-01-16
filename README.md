@@ -32,10 +32,10 @@ This project demonstrates core Java skills including class design, file I/O, arr
     - Java JDK >=8
     - Eclipse IDE (Java Developers edition rec)
   - Steps
-    1. Open Eclipse
-    2. Select File -> New -> Java Project
-    3. Name the Project: KapalPerang
-    4. Inside src/, add:
+      1. Open Eclipse
+      2. Select File -> New -> Java Project
+      3. Name the Project: KapalPerang
+      4. Inside src/, add:
       - `Battlemain.java`
       - `Game.java`
       - `Location.java`
