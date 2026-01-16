@@ -36,9 +36,9 @@ This project demonstrates core Java skills including class design, file I/O, arr
       2. Select File -> New -> Java Project
       3. Name the Project: KapalPerang
       4. Inside src/, add:
-      - `Battlemain.java`
-      - `Game.java`
-      - `Location.java`
+        - `Battlemain.java`
+        - `Game.java`
+        - `Location.java`
     5. Place `line.dat` in the project root directory
     6. Run  `Battlemain.java`
 
