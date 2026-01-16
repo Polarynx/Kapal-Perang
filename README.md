@@ -5,7 +5,7 @@ Kapal Perang is a console-based implementation of the classic Battleship game, d
 
 This project demonstrates core Java skills including class design, file I/O, arrays, control flow, and interactive user input.
 
-##File Descriptions
+## File Descriptions
 - `Battlemain.java`
   - Entry point of the program
   - Runs the Game
@@ -27,7 +27,7 @@ This project demonstrates core Java skills including class design, file I/O, arr
 - `line.dat`
   - Stores a log of game results
   - Auto-updated after each completed game
-##How to Run (Eclipse IDE)
+## How to Run (Eclipse IDE)
 Prereqs
   - Java JDK >=8
   - Eclipse IDE (Java Developers edition rec)
@@ -42,7 +42,7 @@ Steps
 5. Place `line.dat` in the project root directory
 6. Run  `Battlemain.java`
 
-##Gameplay Instructions
+## Gameplay Instructions
 - You'll be prompted to place ships by entering:
   - Entering coordinates (row, column)
   - Direction (1 = Up, 2 = Right, 3 = Down, 4 = Left)
