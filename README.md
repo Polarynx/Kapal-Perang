@@ -1,4 +1,4 @@
-# Kapal-Perang
+# Kapal-Perang (Java)
 
 ## Overview
 Kapal Perang is a console-based implementation of the classic Battleship game, developed in Java using object-oriented programming principles. The game allows a human player to compete against a computer-controlled opponent, featuring ship placement validation, turn-based combat, hit/miss detection, and persistent game result logging.
